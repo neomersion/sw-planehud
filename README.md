@@ -1,2 +1,2 @@
 # sw-planehud
-Simple LUA script for a plane HUD. Billions must use trigonometry
+Simple LUA script for a plane HUD in Stormworks: Build And Rescue. Billions must use trigonometry
